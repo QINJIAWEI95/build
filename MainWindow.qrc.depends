@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>Resources/jij.png</file>
+    <file>Resources/hh.jpg</file>
+  </qresource>
+</RCC>

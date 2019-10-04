@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\build\jijibaba_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\eeee.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\yy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lixiang\Desktop\jiji\build\qrc_MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\eeee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\yy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\build\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\build\ui_dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\build\ui_eeee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lixiang\Desktop\jiji\build\ui_yy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lixiang\Desktop\jiji\MainWindow.ui" />
+    <CustomBuild Include="C:\Users\Lixiang\Desktop\jiji\dialog.ui" />
+    <CustomBuild Include="C:\Users\Lixiang\Desktop\jiji\eeee.ui" />
+    <CustomBuild Include="C:\Users\Lixiang\Desktop\jiji\yy.ui" />
+    <CustomBuild Include="C:\Users\Lixiang\Desktop\jiji\MainWindow.qrc" />
+    <CustomBuild Include="C:\Users\Lixiang\Desktop\jiji\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2E185366-E042-3D7A-89C4-0C5F5D465773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D68D1DB0-F005-3E68-AFD3-16F2F082D85D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
